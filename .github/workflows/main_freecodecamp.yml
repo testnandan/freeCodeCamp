@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'freecodecamp'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_418DBF606196466B80A91EA4E5BFB2FB }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_ED8B4D7F3C1F47DD90C680E9DF0C5528 }}
           package: .
